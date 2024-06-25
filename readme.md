@@ -19,6 +19,14 @@ go version
 # that doesn't have the latest features.
 ```
 
+## website
+
+So, I wanted to play around with making a website in Go. Interested in comparing to fastapi in python.
+
+go is like c but modern is what people say. 
+
+python is great for fast development of ideas and is generally easier to read.
+
 ## air
 
 the idea is to do live reloads to make life easier. 
